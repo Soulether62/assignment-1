@@ -1,2 +1,0 @@
-n='success'
-print(n)
